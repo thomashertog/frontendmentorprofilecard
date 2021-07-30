@@ -34,7 +34,6 @@ body {
   justify-content: space-around;
   inline-size: 100%;
   max-inline-size: 350px;
-  margin-top: -3.25em;
 }
 
 .card .profile-picture-wrapper {
